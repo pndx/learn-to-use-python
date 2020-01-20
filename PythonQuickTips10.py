@@ -1,7 +1,9 @@
-# print(dir(int))
-# print(dir(str))
-# print(dir(bool))
-# print(help(int))
+# Help and Dir Functions - Python Quick Tips
+
+print(dir(int))
+print(dir(str))
+print(dir(bool))
+print(help(int))
 
 
 class MyObject:

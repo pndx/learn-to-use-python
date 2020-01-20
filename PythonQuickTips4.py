@@ -1,3 +1,5 @@
+# Python Enumerate Function - Python Quick Tips
+
 my_list = ["apples", "pears", "oranges", "fruits"]
 
 # way 1

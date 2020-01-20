@@ -1,3 +1,5 @@
+# f Strings - Python Quick Tips
+
 name = "tom"
 age = 20
 

@@ -1,3 +1,6 @@
+# Tuple Decomposition - Python Quick Tips
+
+
 def func():
     return 1, 2, 3
 
